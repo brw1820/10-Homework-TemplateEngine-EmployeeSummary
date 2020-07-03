@@ -1,7 +1,7 @@
 # 10-Homework-TemplateEngine-EmployeeSummary
   # README Homework Generator
   ## Description
-  The purpose of this application is to generate a README.md file automatically through the 'inquirer' depository in node.
+  The purpose of this application is to generate a Employee template through a series of prompts.
   ## Table of Contents
   * [Description](#description)
   * [Installation](#installation)
@@ -14,10 +14,10 @@
   ## Installation
   First download node.js at https://nodejs.org/en/ and clone the repository found at:
 
-  https://github.com/brw1820/readme-generator-homework-09
+  https://github.com/brw1820/10-Homework-TemplateEngine-EmployeeSummary
 
   ## Usage
-  This repository contains a README.md file generator by using node.js.  Open index.js in your source code editor such as Visual Studio Code or iTerm and install 'inquirer' into the folder with the command 'npm install inquirer'. Open your terminal and proceed to input the command 'node index.js'. Complete the prompts, and you will be given your generated README.md file.
+  This repository contains a a template engine for an employee summary generator using node.js.  Open app.js in your source code editor such as Visual Studio Code or iTerm and install 'inquirer' into the folder with the command 'npm install inquirer'. Open your terminal and proceed to input the command 'node app.js'. Complete the prompts, and you will be given your generated employee template.
   
   Link to video: https://drive.google.com/file/d/1-lAIMnoUHUItuY3FAr9BgBw8fXcO3x0O/view?usp=sharing
 
