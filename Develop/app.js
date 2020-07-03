@@ -130,7 +130,6 @@ function addMember()  {
       choices: ["yes", "no"]
     }
   ]).then (function(choice)  {
-    console.log(employees);
   if ("yes" === choice.addMember) {
     promptUser();
   } else  {

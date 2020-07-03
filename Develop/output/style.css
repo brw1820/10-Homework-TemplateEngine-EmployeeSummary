@@ -13,3 +13,7 @@
 .card-title {
     color:white;
 }
+
+body{
+    background-image: url(./Assets/gtpfbg.png);
+}
