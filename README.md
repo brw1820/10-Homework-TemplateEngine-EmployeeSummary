@@ -21,7 +21,8 @@
   
   Link to video: https://drive.google.com/file/d/1-lAIMnoUHUItuY3FAr9BgBw8fXcO3x0O/view?usp=sharing
 
-  ![project gif](/Assets/gif.gif)
+ ![gif](./Assets/gif.gif)
+
   ## License
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   
